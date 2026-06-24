@@ -26,12 +26,6 @@ func QueryResults(q string, omitAbstract bool) {
 
 func FeedMenu(OnlyFollowers, omitAbstract  bool) {
 	authors := []string{
-		"O.Loaiza.Brito.1",
-		"N.G.Cabo.Bizet.1",
-		"Victor.Lopez.1",
-		"Alan.Josue.Sierra.Torres.1",
-		"G.PerezCuellar.1",
-		"C.A.Vaquera.Araujo.1",
 	}
 
 	var q string
